@@ -1,6 +1,6 @@
 export const profile = {
   name: "Suyog Raosaheb Daule",
-  role: "Software Developer",
+  role:"Software Developer | Data & Business Analytics Enthusiast",
   photo: "/daule.png",
   tagline:
     "Turning ideas into reality through code, creativity, and continuous innovation.",
