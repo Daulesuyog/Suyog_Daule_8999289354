@@ -3,7 +3,7 @@ export const profile = {
   role: "Software Developer",
   photo: "/daule.png",
   tagline:
-    "Building Practical Solutions Through Code, Creativity, and Continuous Learning.",
+    "Turning ideas into reality through code, creativity, and continuous innovation.",
   about: [
     "I am a B.E. Information Technology graduate from Amrutvahini College of Engineering, Sangamner, with a strong interest in software development, software testing, and quality assurance.",
     "I have hands-on experience with React.js, JavaScript, Node.js, Express.js, REST APIs, MySQL, and PostgreSQL, along with knowledge of Core Java and Python.",
@@ -42,6 +42,10 @@ export const skills = [
     items: ["Node.js", "Express.js", "REST API", "API Integration"],
   },
   { group: "Databases", items: ["PostgreSQL", "MySQL", "MongoDB"] },
+  
+  { 
+    group: "Data & Analytics", 
+    items: ["Excel", "Power BI", "Data Analysis", "Business Analysis"] },
   {
     group: "Core Concepts",
     items: ["Data Structures", "OOP", "DBMS", "CRUD", "Authentication"],
