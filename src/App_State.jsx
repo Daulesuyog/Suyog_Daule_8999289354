@@ -44,7 +44,7 @@ export const skills = [
   { group: "Databases", items: ["PostgreSQL", "MySQL", "MongoDB"] },
   
   { 
-    group: "Data & Analytics", 
+    group: "Data & Business Analytics", 
     items: ["Excel", "Power BI", "Data Analysis", "Business Analysis"] },
   {
     group: "Core Concepts",
