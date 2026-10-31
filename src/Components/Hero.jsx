@@ -92,7 +92,7 @@ export default function Hero() {
           <pre className="code-card" aria-hidden="true">
 {`const suyog = {
   role: "Aspiring IT Professional",
-  interests: ["Development", "Testing", "Technical Support", "IT"],
+  interests: ["Development", ""Data Analysis", Business Analysis],
   openToWork: true,
 };`}
           </pre>
